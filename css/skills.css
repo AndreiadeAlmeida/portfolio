@@ -1,0 +1,57 @@
+/* ===== About ====== */
+/* ===== Skills ===== */
+#about {
+  background-color: rgba(152, 135, 143, .1);
+  margin-top: -20px;
+}
+
+#about .header {
+  padding-top: 30px;
+}
+
+.about-skills {
+  margin: auto;
+  width: 90%;
+}
+
+.about-top {
+  margin-bottom: 50px;
+}
+
+.about-me {
+  margin-bottom: 40px;
+}
+
+.about-skills h2 {
+  font-weight: bold;
+}
+
+.about-skills p {
+  line-height: 2em;
+}
+
+.fa-stack-2x {
+  color: #336B87;
+}
+
+.fa-mobile {
+  padding-right: 45px;
+  padding-top: 10px;
+}
+
+.profile-pic {
+  width: 300px;
+}
+
+.programs {
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.fade-scroll {
+  opacity: 0;
+}
+.skill {
+  width: 100px;
+  margin: 10px 2px;
+}
